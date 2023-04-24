@@ -1,0 +1,15 @@
+C:\Users\Windows10\Desktop\Project\Les7\bin\Debug\net7.0\Les7.exe
+C:\Users\Windows10\Desktop\Project\Les7\bin\Debug\net7.0\Les7.deps.json
+C:\Users\Windows10\Desktop\Project\Les7\bin\Debug\net7.0\Les7.runtimeconfig.json
+C:\Users\Windows10\Desktop\Project\Les7\bin\Debug\net7.0\Les7.dll
+C:\Users\Windows10\Desktop\Project\Les7\bin\Debug\net7.0\Les7.pdb
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\Les7.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\Les7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\Les7.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\Les7.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\Les7.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\Les7.dll
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\refint\Les7.dll
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\Les7.pdb
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\Les7.genruntimeconfig.cache
+C:\Users\Windows10\Desktop\Project\Les7\obj\Debug\net7.0\ref\Les7.dll
